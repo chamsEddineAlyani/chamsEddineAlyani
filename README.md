@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there 👋, I'm Chamseddine Alyani
+🚀 Software Engineer | Full-Stack Developer | Java & Angular Enthusiast
 
-<!--
-**chamsEddineAlyani/chamsEddineAlyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering graduate from the National Engineering School of Tunis (ENIT) with a passion for building scalable, secure, and high-performance applications. I specialize in designing modern backend architectures with Java Spring Boot and creating responsive frontend applications using Angular and React.
 
-Here are some ideas to get you started:
+I enjoy solving complex problems, designing microservice-based systems, and exploring emerging technologies such as Artificial Intelligence, IoT, Cloud-Native Development, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills & Tools
+
+## 🚀 Backend Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
