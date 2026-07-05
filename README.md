@@ -90,5 +90,4 @@ I enjoy solving complex problems, designing microservice-based systems, and expl
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![IoT](https://img.shields.io/badge/Internet_of_Things-00ACC1?style=for-the-badge)
